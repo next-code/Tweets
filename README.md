@@ -1,5 +1,5 @@
 # Tweets
-Tweets App displays Bobdylan tweets 
+Tweets App displays Bob Dylan's tweets 
 
 How to run the App?
 Open the project in Android studio and Run it form there.
